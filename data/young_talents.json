@@ -1,0 +1,102 @@
+[
+  {
+    "player_name": "Mateusz Pruchniewski",
+    "player_age": 18,
+    "player_nationality": "Poland"
+  },
+  {
+    "player_name": "Michal Gurgul",
+    "player_age": 19,
+    "player_nationality": "Poland"
+  },
+  {
+    "player_name": "Wojciech Monka",
+    "player_age": 18,
+    "player_nationality": "Poland"
+  },
+  {
+    "player_name": "Antoni Kozubal",
+    "player_age": 21,
+    "player_nationality": "Poland"
+  },
+  {
+    "player_name": "Timothy Ouma",
+    "player_age": 21,
+    "player_nationality": "Kenya"
+  },
+  {
+    "player_name": "Gísli Thórdarson",
+    "player_age": 21,
+    "player_nationality": "Iceland"
+  },
+  {
+    "player_name": "Bartlomiej Baranski",
+    "player_age": 19,
+    "player_nationality": "Poland"
+  },
+  {
+    "player_name": "Sammy Dudek",
+    "player_age": 17,
+    "player_nationality": "Poland"
+  },
+  {
+    "player_name": "Kornel Lisman",
+    "player_age": 19,
+    "player_nationality": "Poland"
+  },
+  {
+    "player_name": "Kamil Jakobczyk",
+    "player_age": 17,
+    "player_nationality": "Poland"
+  },
+  {
+    "player_name": "Marcel Mendes-Dudzinski",
+    "player_age": 20,
+    "player_nationality": "Poland"
+  },
+  {
+    "player_name": "Wojciech Banasik",
+    "player_age": 19,
+    "player_nationality": "Poland"
+  },
+  {
+    "player_name": "Jan Ziolkowski",
+    "player_age": 20,
+    "player_nationality": "Poland"
+  },
+  {
+    "player_name": "Kacper Urbanski",
+    "player_age": 21,
+    "player_nationality": "Poland"
+  },
+  {
+    "player_name": "Henrique Arreiol",
+    "player_age": 20,
+    "player_nationality": "Portugal"
+  },
+  {
+    "player_name": "Wojciech Urbanski",
+    "player_age": 20,
+    "player_nationality": "Poland"
+  },
+  {
+    "player_name": "Jakub Zewlakow",
+    "player_age": 18,
+    "player_nationality": "Poland"
+  },
+  {
+    "player_name": "Pascal Mozie",
+    "player_age": 17,
+    "player_nationality": "Poland"
+  },
+  {
+    "player_name": "Slawomir Abramowicz",
+    "player_age": 21,
+    "player_nationality": "Poland"
+  },
+  {
+    "player_name": "Milosz Piekutowski",
+    "player_age": 19,
+    "player_nationality": "Poland"
+  }
+]

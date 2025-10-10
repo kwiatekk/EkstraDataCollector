@@ -1,0 +1,35 @@
+name: Daily EkstraData Collection
+
+on:
+  schedule:
+    - cron: "0 4 * * *"  # uruchamiaj codziennie o 04:00 UTC (czyli 06:00 w Polsce)
+  workflow_dispatch:      # umożliwia ręczne uruchomienie
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🧩 Checkout repo
+        uses: actions/checkout@v4
+
+      - name: 🧠 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 📦 Install dependencies
+        run: |
+          pip install -r requirements.txt
+          sudo apt update && sudo apt install -y r-base
+
+      - name: 🚀 Run EkstraData Collector
+        run: python collectors/run_r_collectors.py
+
+      - name: 🧾 Commit updated data
+        run: |
+          git config user.name "EkstraData Bot"
+          git config user.email "bot@ekstradata.pl"
+          git add data/*.json || true
+          git commit -m "🔄 Auto update data $(date +'%Y-%m-%d %H:%M')" || echo "No changes"
+          git push

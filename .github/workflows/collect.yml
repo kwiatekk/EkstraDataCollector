@@ -26,11 +26,11 @@ jobs:
             # R setup
             sudo apt update && sudo apt install -y r-base r-base-dev
   
-            # Create user library for R packages
-            mkdir -p ~/.R/library
-            echo '.libPaths("~/R/library")' > ~/.Rprofile
+            # Create library directory with write permissions
+            sudo mkdir -p /usr/local/lib/R/site-library
+            sudo chmod 777 /usr/local/lib/R/site-library
   
-            # Install required R packages to user space
+            # Install required R packages to site-library
             Rscript -e 'install.packages(c(
               "worldfootballR",
               "dplyr",
@@ -42,7 +42,7 @@ jobs:
               "readr",
               "lubridate",
               "tibble"
-            ), repos="https://cloud.r-project.org", lib="~/R/library")'
+            ), repos="https://cloud.r-project.org", lib="/usr/local/lib/R/site-library")'
   
 
 

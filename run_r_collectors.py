@@ -39,7 +39,7 @@ class Config:
     
     BASE_DIR = Path(__file__).parent.parent
     COLLECTORS_DIR = BASE_DIR / "collectors"
-    R_SCRIPTS_DIR = COLLECTORS_DIR / "r_scripts"
+    R_SCRIPTS_DIR = BASE_DIR / "r_scripts"
     DATA_DIR = BASE_DIR / "data"
     CONFIG_DIR = BASE_DIR / "config"
     LOGS_DIR = BASE_DIR / "logs"

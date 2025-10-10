@@ -13,32 +13,37 @@ jobs:
       - name: 🧩 Checkout repo
         uses: actions/checkout@v4
 
-      - name: 🧠 Setup Pytho
+      - name: 🧠 Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
       - name: 📦 Install dependencies
         run: |
-          # Python dependencies
-          pip install -r requirements.txt
-          
-          # R setup
-          sudo apt update && sudo apt install -y r-base r-base-dev
-
-          # Install required R packages
-          Rscript -e 'install.packages(c(
-            "worldfootballR",
-            "dplyr",
-            "tidyr",
-            "jsonlite",
-            "rvest",
-            "stringr",
-            "purrr",
-            "readr",
-            "lubridate",
-            "tibble"
-          ), repos="https://cloud.r-project.org")'
+            # Python dependencies
+            pip install -r requirements.txt
+            
+            # R setup
+            sudo apt update && sudo apt install -y r-base r-base-dev
+  
+            # Create user library for R packages
+            mkdir -p ~/.R/library
+            echo '.libPaths("~/R/library")' > ~/.Rprofile
+  
+            # Install required R packages to user space
+            Rscript -e 'install.packages(c(
+              "worldfootballR",
+              "dplyr",
+              "tidyr",
+              "jsonlite",
+              "rvest",
+              "stringr",
+              "purrr",
+              "readr",
+              "lubridate",
+              "tibble"
+            ), repos="https://cloud.r-project.org", lib="~/R/library")'
+  
 
 
       - name: 🚀 Run EkstraData Collector

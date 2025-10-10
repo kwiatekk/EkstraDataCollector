@@ -24,7 +24,7 @@ jobs:
           sudo apt update && sudo apt install -y r-base
 
       - name: 🚀 Run EkstraData Collector
-        run: python collectors/run_r_collectors.py
+        run: python run_r_collectors.py
 
       - name: 🧾 Commit updated data
         run: |

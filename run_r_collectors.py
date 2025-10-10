@@ -114,7 +114,14 @@ def create_default_env():
     Config.CONFIG_DIR.mkdir(parents=True, exist_ok=True)
     
     default_env = """# Ekstraklasa Data Collector
-R_PATH=C:\\Program Files\\R\\R-4.5.1\\bin\\x64\\Rscript.exe
+import platform
+
+# Wybór Rscript zależnie od systemu
+if platform.system() == "Windows":
+    R_SCRIPT_PATH = r"C:\Program Files\R\R-4.5.1\bin\x64\Rscript.exe"
+else:
+    R_SCRIPT_PATH = "Rscript"
+
 SEASON_START=2025
 SEASON_END=2026
 LEAGUE_COUNTRY=Poland

@@ -1,0 +1,342 @@
+[
+  {
+    "nationality": "Poland",
+    "count": 286,
+    "percentage": 50.98
+  },
+  {
+    "nationality": "Spain",
+    "count": 34,
+    "percentage": 6.06
+  },
+  {
+    "nationality": "Portugal",
+    "count": 17,
+    "percentage": 3.03
+  },
+  {
+    "nationality": "Croatia",
+    "count": 13,
+    "percentage": 2.32
+  },
+  {
+    "nationality": "Sweden",
+    "count": 12,
+    "percentage": 2.14
+  },
+  {
+    "nationality": "France",
+    "count": 11,
+    "percentage": 1.96
+  },
+  {
+    "nationality": "Greece",
+    "count": 11,
+    "percentage": 1.96
+  },
+  {
+    "nationality": "Slovakia",
+    "count": 11,
+    "percentage": 1.96
+  },
+  {
+    "nationality": "Ukraine",
+    "count": 11,
+    "percentage": 1.96
+  },
+  {
+    "nationality": "Brazil",
+    "count": 9,
+    "percentage": 1.6
+  },
+  {
+    "nationality": "Bosnia-Herzegovina",
+    "count": 7,
+    "percentage": 1.25
+  },
+  {
+    "nationality": "Slovenia",
+    "count": 7,
+    "percentage": 1.25
+  },
+  {
+    "nationality": "Germany",
+    "count": 6,
+    "percentage": 1.07
+  },
+  {
+    "nationality": "Serbia",
+    "count": 6,
+    "percentage": 1.07
+  },
+  {
+    "nationality": "Czech Republic",
+    "count": 5,
+    "percentage": 0.89
+  },
+  {
+    "nationality": "Denmark",
+    "count": 5,
+    "percentage": 0.89
+  },
+  {
+    "nationality": "Nigeria",
+    "count": 5,
+    "percentage": 0.89
+  },
+  {
+    "nationality": "Norway",
+    "count": 5,
+    "percentage": 0.89
+  },
+  {
+    "nationality": "Senegal",
+    "count": 5,
+    "percentage": 0.89
+  },
+  {
+    "nationality": "Switzerland",
+    "count": 5,
+    "percentage": 0.89
+  },
+  {
+    "nationality": "Belarus",
+    "count": 4,
+    "percentage": 0.71
+  },
+  {
+    "nationality": "Colombia",
+    "count": 4,
+    "percentage": 0.71
+  },
+  {
+    "nationality": "Georgia",
+    "count": 4,
+    "percentage": 0.71
+  },
+  {
+    "nationality": "Japan",
+    "count": 4,
+    "percentage": 0.71
+  },
+  {
+    "nationality": "Kosovo",
+    "count": 4,
+    "percentage": 0.71
+  },
+  {
+    "nationality": "Belgium",
+    "count": 3,
+    "percentage": 0.53
+  },
+  {
+    "nationality": "Bulgaria",
+    "count": 3,
+    "percentage": 0.53
+  },
+  {
+    "nationality": "Cote d'Ivoire",
+    "count": 3,
+    "percentage": 0.53
+  },
+  {
+    "nationality": "Cyprus",
+    "count": 3,
+    "percentage": 0.53
+  },
+  {
+    "nationality": "DR Congo",
+    "count": 3,
+    "percentage": 0.53
+  },
+  {
+    "nationality": "Romania",
+    "count": 3,
+    "percentage": 0.53
+  },
+  {
+    "nationality": "United States",
+    "count": 3,
+    "percentage": 0.53
+  },
+  {
+    "nationality": "Albania",
+    "count": 2,
+    "percentage": 0.36
+  },
+  {
+    "nationality": "Angola",
+    "count": 2,
+    "percentage": 0.36
+  },
+  {
+    "nationality": "Cameroon",
+    "count": 2,
+    "percentage": 0.36
+  },
+  {
+    "nationality": "Canada",
+    "count": 2,
+    "percentage": 0.36
+  },
+  {
+    "nationality": "England",
+    "count": 2,
+    "percentage": 0.36
+  },
+  {
+    "nationality": "Guinea",
+    "count": 2,
+    "percentage": 0.36
+  },
+  {
+    "nationality": "Guinea-Bissau",
+    "count": 2,
+    "percentage": 0.36
+  },
+  {
+    "nationality": "Hungary",
+    "count": 2,
+    "percentage": 0.36
+  },
+  {
+    "nationality": "Iceland",
+    "count": 2,
+    "percentage": 0.36
+  },
+  {
+    "nationality": "Iraq",
+    "count": 2,
+    "percentage": 0.36
+  },
+  {
+    "nationality": "Kenya",
+    "count": 2,
+    "percentage": 0.36
+  },
+  {
+    "nationality": "Montenegro",
+    "count": 2,
+    "percentage": 0.36
+  },
+  {
+    "nationality": "Netherlands",
+    "count": 2,
+    "percentage": 0.36
+  },
+  {
+    "nationality": "Argentina",
+    "count": 1,
+    "percentage": 0.18
+  },
+  {
+    "nationality": "Armenia",
+    "count": 1,
+    "percentage": 0.18
+  },
+  {
+    "nationality": "Australia",
+    "count": 1,
+    "percentage": 0.18
+  },
+  {
+    "nationality": "Austria",
+    "count": 1,
+    "percentage": 0.18
+  },
+  {
+    "nationality": "Azerbaijan",
+    "count": 1,
+    "percentage": 0.18
+  },
+  {
+    "nationality": "Burkina Faso",
+    "count": 1,
+    "percentage": 0.18
+  },
+  {
+    "nationality": "Cape Verde",
+    "count": 1,
+    "percentage": 0.18
+  },
+  {
+    "nationality": "Congo",
+    "count": 1,
+    "percentage": 0.18
+  },
+  {
+    "nationality": "Equatorial Guinea",
+    "count": 1,
+    "percentage": 0.18
+  },
+  {
+    "nationality": "Estonia",
+    "count": 1,
+    "percentage": 0.18
+  },
+  {
+    "nationality": "Faroe Islands",
+    "count": 1,
+    "percentage": 0.18
+  },
+  {
+    "nationality": "Finland",
+    "count": 1,
+    "percentage": 0.18
+  },
+  {
+    "nationality": "Ghana",
+    "count": 1,
+    "percentage": 0.18
+  },
+  {
+    "nationality": "Honduras",
+    "count": 1,
+    "percentage": 0.18
+  },
+  {
+    "nationality": "Iran",
+    "count": 1,
+    "percentage": 0.18
+  },
+  {
+    "nationality": "Korea, South",
+    "count": 1,
+    "percentage": 0.18
+  },
+  {
+    "nationality": "Latvia",
+    "count": 1,
+    "percentage": 0.18
+  },
+  {
+    "nationality": "Lithuania",
+    "count": 1,
+    "percentage": 0.18
+  },
+  {
+    "nationality": "Madagascar",
+    "count": 1,
+    "percentage": 0.18
+  },
+  {
+    "nationality": "New Zealand",
+    "count": 1,
+    "percentage": 0.18
+  },
+  {
+    "nationality": "North Macedonia",
+    "count": 1,
+    "percentage": 0.18
+  },
+  {
+    "nationality": "The Gambia",
+    "count": 1,
+    "percentage": 0.18
+  },
+  {
+    "nationality": "United Arab Emirates",
+    "count": 1,
+    "percentage": 0.18
+  }
+]

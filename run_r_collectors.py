@@ -37,7 +37,7 @@ except ImportError:
 class Config:
     """Centralna konfiguracja projektu"""
     
-    BASE_DIR = Path(__file__).parent.parent
+    BASE_DIR = Path(__file__).parent
     COLLECTORS_DIR = BASE_DIR / "collectors"
     R_SCRIPTS_DIR = BASE_DIR / "r_scripts"
     DATA_DIR = BASE_DIR / "data"

@@ -24,7 +24,11 @@ jobs:
             pip install -r requirements.txt
             
             # R setup
-            sudo apt update && sudo apt install -y r-base r-base-dev
+            sudo apt update && sudo apt install -y \
+              r-base r-base-dev \
+              libcurl4-openssl-dev \
+              libssl-dev \
+              libxml2-dev
   
             # Create library directory with write permissions
             sudo mkdir -p /usr/local/lib/R/site-library

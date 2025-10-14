@@ -10,7 +10,7 @@
     "goal_diff": 4,
     "points_L5": 10,
     "form_string": "L-W-D-W-W",
-    "collected_at": "2025-10-13 04:27:57"
+    "collected_at": "2025-10-14 04:28:08"
   },
   {
     "team": "Górnik Zabrze",
@@ -23,7 +23,7 @@
     "goal_diff": 3,
     "points_L5": 10,
     "form_string": "W-D-W-W-L",
-    "collected_at": "2025-10-13 04:27:57"
+    "collected_at": "2025-10-14 04:28:08"
   },
   {
     "team": "Jagiellonia",
@@ -36,7 +36,7 @@
     "goal_diff": 3,
     "points_L5": 9,
     "form_string": "W-D-D-W-D",
-    "collected_at": "2025-10-13 04:27:57"
+    "collected_at": "2025-10-14 04:28:08"
   },
   {
     "team": "Cracovia",
@@ -49,7 +49,7 @@
     "goal_diff": 3,
     "points_L5": 8,
     "form_string": "L-D-W-W-D",
-    "collected_at": "2025-10-13 04:27:57"
+    "collected_at": "2025-10-14 04:28:08"
   },
   {
     "team": "Zagłębie Lubin",
@@ -62,7 +62,7 @@
     "goal_diff": 3,
     "points_L5": 8,
     "form_string": "L-W-D-W-D",
-    "collected_at": "2025-10-13 04:27:57"
+    "collected_at": "2025-10-14 04:28:08"
   },
   {
     "team": "Lech Poznań",
@@ -75,7 +75,7 @@
     "goal_diff": 2,
     "points_L5": 8,
     "form_string": "W-D-D-W-L",
-    "collected_at": "2025-10-13 04:27:57"
+    "collected_at": "2025-10-14 04:28:08"
   },
   {
     "team": "Raków",
@@ -88,7 +88,7 @@
     "goal_diff": 2,
     "points_L5": 8,
     "form_string": "W-W-D-D-L",
-    "collected_at": "2025-10-13 04:27:57"
+    "collected_at": "2025-10-14 04:28:08"
   },
   {
     "team": "Legia Warsaw",
@@ -101,7 +101,7 @@
     "goal_diff": 2,
     "points_L5": 8,
     "form_string": "L-W-D-D-W",
-    "collected_at": "2025-10-13 04:27:57"
+    "collected_at": "2025-10-14 04:28:08"
   },
   {
     "team": "Radomiak Radom",
@@ -114,7 +114,7 @@
     "goal_diff": -1,
     "points_L5": 7,
     "form_string": "W-D-W-L-L",
-    "collected_at": "2025-10-13 04:27:57"
+    "collected_at": "2025-10-14 04:28:08"
   },
   {
     "team": "Lechia Gdańsk",
@@ -127,7 +127,7 @@
     "goal_diff": -2,
     "points_L5": 7,
     "form_string": "D-L-W-W-L",
-    "collected_at": "2025-10-13 04:27:57"
+    "collected_at": "2025-10-14 04:28:08"
   },
   {
     "team": "Arka Gdynia",
@@ -140,7 +140,7 @@
     "goal_diff": -4,
     "points_L5": 7,
     "form_string": "W-L-D-L-W",
-    "collected_at": "2025-10-13 04:27:57"
+    "collected_at": "2025-10-14 04:28:08"
   },
   {
     "team": "Widzew Łódź",
@@ -153,7 +153,7 @@
     "goal_diff": 1,
     "points_L5": 6,
     "form_string": "W-L-L-W-L",
-    "collected_at": "2025-10-13 04:27:57"
+    "collected_at": "2025-10-14 04:28:08"
   },
   {
     "team": "Pogoń Szczecin",
@@ -166,7 +166,7 @@
     "goal_diff": 0,
     "points_L5": 6,
     "form_string": "W-L-L-L-W",
-    "collected_at": "2025-10-13 04:27:57"
+    "collected_at": "2025-10-14 04:28:08"
   },
   {
     "team": "Motor Lublin",
@@ -179,7 +179,7 @@
     "goal_diff": -1,
     "points_L5": 6,
     "form_string": "L-D-D-D-W",
-    "collected_at": "2025-10-13 04:27:57"
+    "collected_at": "2025-10-14 04:28:08"
   },
   {
     "team": "Piast Gliwice",
@@ -192,7 +192,7 @@
     "goal_diff": 0,
     "points_L5": 5,
     "form_string": "L-W-L-D-D",
-    "collected_at": "2025-10-13 04:27:57"
+    "collected_at": "2025-10-14 04:28:08"
   },
   {
     "team": "Wisła Płock",
@@ -205,7 +205,7 @@
     "goal_diff": -1,
     "points_L5": 5,
     "form_string": "D-D-L-L-W",
-    "collected_at": "2025-10-13 04:27:57"
+    "collected_at": "2025-10-14 04:28:08"
   },
   {
     "team": "Katowice",
@@ -218,7 +218,7 @@
     "goal_diff": -5,
     "points_L5": 4,
     "form_string": "L-D-L-L-W",
-    "collected_at": "2025-10-13 04:27:57"
+    "collected_at": "2025-10-14 04:28:08"
   },
   {
     "team": "Nieciecza",
@@ -231,6 +231,6 @@
     "goal_diff": -8,
     "points_L5": 1,
     "form_string": "L-L-L-D-L",
-    "collected_at": "2025-10-13 04:27:57"
+    "collected_at": "2025-10-14 04:28:08"
   }
 ]

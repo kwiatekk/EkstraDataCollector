@@ -11,7 +11,7 @@
     "contract_option": "club option 1 year",
     "player_market_value": 4000000,
     "agent": "INNfootball",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -27,7 +27,7 @@
     "player_market_value": 4000000,
     "transfer_fee": 0,
     "agent": "DWMA",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -42,7 +42,7 @@
     "contract_option": "-",
     "player_market_value": 2500000,
     "agent": "YOU FIRST",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -57,7 +57,7 @@
     "player_market_value": 2000000,
     "transfer_fee": 1800000,
     "agent": "PIFA",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -72,7 +72,7 @@
     "player_market_value": 2000000,
     "transfer_fee": 0,
     "agent": "Talented Birds",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -87,7 +87,7 @@
     "player_market_value": 2000000,
     "transfer_fee": 0,
     "agent": "SEG",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -101,7 +101,7 @@
     "contract_option": "-",
     "player_market_value": 2000000,
     "agent": "Fabryka Futbolu",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -115,7 +115,7 @@
     "contract_option": "Option for a further year",
     "player_market_value": 2000000,
     "agent": "INNfootball",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -130,7 +130,7 @@
     "contract_option": "-",
     "player_market_value": 1500000,
     "agent": "FÚTBOLMORRA",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -144,7 +144,7 @@
     "contract_option": "-",
     "player_market_value": 1500000,
     "agent": "",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -160,7 +160,7 @@
     "player_market_value": 1300000,
     "transfer_fee": 0,
     "agent": "Kp Management",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -174,7 +174,7 @@
     "contract_option": "both parties 2 years",
     "player_market_value": 1200000,
     "agent": "TIAgency",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -189,7 +189,7 @@
     "contract_option": "-",
     "player_market_value": 1200000,
     "agent": "11WINS",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -204,7 +204,7 @@
     "player_market_value": 1000000,
     "transfer_fee": 0,
     "agent": "no agent",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -219,7 +219,7 @@
     "contract_option": "Option for a further year",
     "player_market_value": 1000000,
     "agent": "Sport Cover",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -232,7 +232,7 @@
     "current_club": "Korona Kielce",
     "contract_option": "-",
     "agent": "BMG-SPORT",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -245,7 +245,7 @@
     "current_club": "Widzew Lodz",
     "contract_option": "Option for a further year",
     "agent": "SEG",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -253,12 +253,12 @@
     "comp_url": "https://www.transfermarkt.com/ekstraklasa/endendevertraege/wettbewerb/PL1/plus/1/galerie/0?jahr=2026&ausrichtung=alle&spielerposition_id=alle&altersklasse=alle&land_id=0&yt0=Show",
     "player_name": "Kornel Lisman",
     "player_url": "https://www.transfermarkt.com/kornel-lisman/profil/spieler/1148082",
-    "position": "Right Winger",
+    "position": "Left Winger",
     "nationality": "Poland",
     "current_club": "Lech Poznan",
     "contract_option": "-",
     "agent": "KFM",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -273,7 +273,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "feel soccer GmbH",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -287,7 +287,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "Bak Agency",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -302,7 +302,7 @@
     "contract_option": "Option for a further year",
     "transfer_fee": 0,
     "agent": "Universal Twenty Two",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -316,7 +316,7 @@
     "current_club": "Pogon Szczecin",
     "contract_option": "-",
     "agent": "MSports PRO",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -330,7 +330,7 @@
     "current_club": "Legia Warszawa",
     "contract_option": "-",
     "agent": "Global Compensation",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -343,7 +343,7 @@
     "current_club": "Legia Warszawa",
     "contract_option": "-",
     "agent": "Footuro AG",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -357,7 +357,7 @@
     "contract_option": "Option for a further year",
     "transfer_fee": 0,
     "agent": "Universal Twenty Two",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -370,7 +370,7 @@
     "current_club": "Motor Lublin",
     "contract_option": "club option 2 years",
     "agent": "Ireneusz Hurwicz",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -384,7 +384,7 @@
     "contract_option": "Option for a further year",
     "transfer_fee": 0,
     "agent": "SEG",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -397,7 +397,7 @@
     "current_club": "Lech Poznan",
     "contract_option": "Option for a further year",
     "agent": "NEJA SPORT d.o.o.",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -411,7 +411,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "INTERNATIONAL SPORTS OFFICE",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -424,7 +424,7 @@
     "current_club": "Cracovia",
     "contract_option": "Option for a further year",
     "agent": "MD Management",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -438,7 +438,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "FBG",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -452,7 +452,7 @@
     "contract_option": "Option for a further year",
     "transfer_fee": 0,
     "agent": "INNfootball",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -465,7 +465,7 @@
     "current_club": "Korona Kielce",
     "contract_option": "-",
     "agent": "",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -480,7 +480,7 @@
     "contract_option": "Option for a further year",
     "transfer_fee": 0,
     "agent": "Proeleven S.A.",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -494,7 +494,7 @@
     "contract_option": "Option for a further year",
     "transfer_fee": 0,
     "agent": "MSports PRO",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -508,7 +508,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -522,7 +522,7 @@
     "contract_option": "Option for a further year",
     "transfer_fee": 0,
     "agent": "IFM-M",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -536,7 +536,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "Fabryka Futbolu",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -551,7 +551,7 @@
     "contract_option": "club option 2 years",
     "transfer_fee": 0,
     "agent": "Traquifoot",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -565,7 +565,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "KFM",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -579,7 +579,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "UNIDOS",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -593,7 +593,7 @@
     "contract_option": "Option for a further year",
     "transfer_fee": 0,
     "agent": "INNfootball",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -607,7 +607,7 @@
     "contract_option": "Amateur contract",
     "transfer_fee": 0,
     "agent": "BMG-SPORT",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -621,7 +621,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "INNfootball",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -635,7 +635,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "Profus Management",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -648,7 +648,7 @@
     "current_club": "Motor Lublin",
     "contract_option": "Option for a further year",
     "agent": "SEG",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -662,7 +662,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "JV SPORTS",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -675,7 +675,7 @@
     "current_club": "Korona Kielce",
     "contract_option": "Option for a further year",
     "agent": "ISCOUT LTD.",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -688,7 +688,7 @@
     "current_club": "Zaglebie Lubin",
     "contract_option": "-",
     "agent": "BMG-SPORT",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -702,7 +702,7 @@
     "contract_option": "Option for a further year",
     "transfer_fee": 0,
     "agent": "Relatives",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -715,7 +715,7 @@
     "current_club": "Raków Częstochowa",
     "contract_option": "club option 2 years",
     "agent": "HBR Sport",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -728,7 +728,7 @@
     "current_club": "Pogon Szczecin",
     "contract_option": "-",
     "agent": "INNfootball",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -741,7 +741,7 @@
     "current_club": "Motor Lublin",
     "contract_option": "-",
     "agent": "ARGENTUM SPORT",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -755,7 +755,7 @@
     "contract_option": "Option for a further year",
     "transfer_fee": 0,
     "agent": "Profus Management",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -768,7 +768,7 @@
     "current_club": "Zaglebie Lubin",
     "contract_option": "-",
     "agent": "FBG",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -782,7 +782,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "FBG",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -796,7 +796,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "Sports&Life",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -810,7 +810,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "Fabryka Futbolu",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -823,7 +823,7 @@
     "current_club": "Motor Lublin",
     "contract_option": "Option for a further year",
     "agent": "FairSport",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -837,7 +837,7 @@
     "contract_option": "Option for a further year",
     "transfer_fee": 0,
     "agent": "box2box Football Agency",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -850,7 +850,7 @@
     "current_club": "Radomiak Radom",
     "contract_option": "-",
     "agent": "Profus Management",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -863,7 +863,7 @@
     "current_club": "Widzew Lodz",
     "contract_option": "club option 1 year",
     "agent": "F-MG.COM",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -877,7 +877,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "no agent",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -892,7 +892,7 @@
     "contract_option": "Option for a further year",
     "transfer_fee": 0,
     "agent": "",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -906,7 +906,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "MVP Agency",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -920,7 +920,7 @@
     "contract_option": "Option for a further year",
     "transfer_fee": 0,
     "agent": "Fabryka Futbolu",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -935,7 +935,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "Relatives",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -948,7 +948,7 @@
     "current_club": "Bruk-Bet Termalica Nieciecza",
     "contract_option": "-",
     "agent": "FairSport",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -962,7 +962,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "VICTORY",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -976,7 +976,7 @@
     "contract_option": "Option for a further year",
     "transfer_fee": 0,
     "agent": "ICON MGMT",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -989,7 +989,7 @@
     "current_club": "Raków Częstochowa",
     "contract_option": "-",
     "agent": "S4S",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1002,7 +1002,7 @@
     "current_club": "Jagiellonia Bialystok",
     "contract_option": "-",
     "agent": "UNIDOS",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1015,7 +1015,7 @@
     "current_club": "Motor Lublin",
     "contract_option": "Option for a further year",
     "agent": "KFM",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1029,7 +1029,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "FairSport",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1042,7 +1042,7 @@
     "current_club": "Motor Lublin",
     "contract_option": "-",
     "agent": "Key United",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1055,7 +1055,7 @@
     "current_club": "Motor Lublin",
     "contract_option": "-",
     "agent": "11-Football Players",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1068,7 +1068,7 @@
     "current_club": "GKS Katowice",
     "contract_option": "-",
     "agent": "box2box Football Agency",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1082,7 +1082,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "Fabryka Futbolu",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1097,7 +1097,7 @@
     "contract_option": "Option for a further year",
     "transfer_fee": 0,
     "agent": "Universal Twenty Two",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1110,7 +1110,7 @@
     "current_club": "Lechia Gdansk",
     "contract_option": "-",
     "agent": "FPA",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1123,7 +1123,7 @@
     "current_club": "Zaglebie Lubin",
     "contract_option": "-",
     "agent": "Fabryka Futbolu",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1138,7 +1138,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "Goodman Sports",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1151,7 +1151,7 @@
     "current_club": "Arka Gdynia",
     "contract_option": "-",
     "agent": "Alex football",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1164,7 +1164,7 @@
     "current_club": "Arka Gdynia",
     "contract_option": "Option for a further year",
     "agent": "Universal Twenty Two",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1178,7 +1178,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "PROTIO SPORT",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1192,7 +1192,7 @@
     "contract_option": "Option for a further year",
     "transfer_fee": 0,
     "agent": "BMG-SPORT",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1206,7 +1206,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "BMG-SPORT",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1220,7 +1220,7 @@
     "current_club": "Wisla Plock",
     "contract_option": "-",
     "agent": "RyS",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1234,7 +1234,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1248,7 +1248,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1262,7 +1262,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "Relatives",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1277,7 +1277,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "box2box Football Agency",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1290,7 +1290,7 @@
     "current_club": "Motor Lublin",
     "contract_option": "-",
     "agent": "Fabryka Futbolu",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1304,7 +1304,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "FBG",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1317,7 +1317,7 @@
     "current_club": "Piast Gliwice",
     "contract_option": "-",
     "agent": "box2box Football Agency",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1331,7 +1331,7 @@
     "contract_option": "Option for a further year",
     "transfer_fee": 0,
     "agent": "INNfootball",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1345,7 +1345,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "KFM",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1358,7 +1358,7 @@
     "current_club": "Arka Gdynia",
     "contract_option": "-",
     "agent": "KFM",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1372,7 +1372,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "FBG",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1386,7 +1386,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1400,7 +1400,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "FBG",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1414,7 +1414,7 @@
     "contract_option": "Option for a further year",
     "transfer_fee": 0,
     "agent": "Kemari",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1427,7 +1427,7 @@
     "current_club": "Pogon Szczecin",
     "contract_option": "-",
     "agent": "",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1440,7 +1440,7 @@
     "current_club": "Pogon Szczecin",
     "contract_option": "-",
     "agent": "Rechtsanwalt Dr. Martin Balcer",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1454,7 +1454,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "F-MG.COM",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1467,7 +1467,7 @@
     "current_club": "Cracovia",
     "contract_option": "-",
     "agent": "FairSport",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1480,7 +1480,7 @@
     "current_club": "Motor Lublin",
     "contract_option": "Option for a further year",
     "agent": "MM-management11",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1494,7 +1494,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "YOUnited Management GmbH",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1508,7 +1508,7 @@
     "contract_option": "Option for a further year",
     "transfer_fee": 0,
     "agent": "Rechtsanwalt Dr. Martin Balcer",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1522,7 +1522,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "FairSport",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1535,7 +1535,7 @@
     "current_club": "Piast Gliwice",
     "contract_option": "-",
     "agent": "",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1549,7 +1549,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "Fabryka Futbolu",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1563,7 +1563,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "FAMK Group",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1577,7 +1577,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "11-Football Players",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1590,7 +1590,7 @@
     "current_club": "Zaglebie Lubin",
     "contract_option": "-",
     "agent": "FairSport",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1604,7 +1604,7 @@
     "contract_option": "Option for a further year",
     "transfer_fee": 0,
     "agent": "CLS Mundial",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1618,7 +1618,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "Profus Management",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1632,7 +1632,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "CAA Stellar",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1645,7 +1645,7 @@
     "current_club": "Lech Poznan",
     "contract_option": "-",
     "agent": "CAA Stellar",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1659,7 +1659,7 @@
     "current_club": "Legia Warszawa",
     "contract_option": "-",
     "agent": "",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1673,7 +1673,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "CHOVANECSPORT",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1687,7 +1687,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "KFM",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1700,7 +1700,7 @@
     "current_club": "Korona Kielce",
     "contract_option": "-",
     "agent": "JV SPORTS",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1714,7 +1714,7 @@
     "contract_option": "Option for a further year",
     "transfer_fee": 0,
     "agent": "Wasserman",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1728,113 +1728,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "F-MG.COM",
-    "scraped_date": "2025-10-14"
-  },
-  {
-    "comp_name": "PKO BP Ekstraklasa",
-    "country": "Poland",
-    "comp_url": "https://www.transfermarkt.com/ekstraklasa/endendevertraege/wettbewerb/PL1/plus/1/galerie/0?jahr=2026&ausrichtung=alle&spielerposition_id=alle&altersklasse=alle&land_id=0&yt0=Show",
-    "player_name": "Hubert Adamczyk",
-    "player_url": "https://www.transfermarkt.com/hubert-adamczyk/profil/spieler/287235",
-    "position": "Attacking Midfield",
-    "nationality": "Poland",
-    "current_club": "Zaglebie Lubin",
-    "contract_option": "-",
-    "agent": "",
-    "scraped_date": "2025-10-14"
-  },
-  {
-    "comp_name": "PKO BP Ekstraklasa",
-    "country": "Poland",
-    "comp_url": "https://www.transfermarkt.com/ekstraklasa/endendevertraege/wettbewerb/PL1/plus/1/galerie/0?jahr=2026&ausrichtung=alle&spielerposition_id=alle&altersklasse=alle&land_id=0&yt0=Show",
-    "player_name": "Marek Mroz",
-    "player_url": "https://www.transfermarkt.com/marek-mroz/profil/spieler/346547",
-    "position": "Attacking Midfield",
-    "nationality": "Poland",
-    "current_club": "Zaglebie Lubin",
-    "contract_option": "-",
-    "transfer_fee": 0,
-    "agent": "FBG",
-    "scraped_date": "2025-10-14"
-  },
-  {
-    "comp_name": "PKO BP Ekstraklasa",
-    "country": "Poland",
-    "comp_url": "https://www.transfermarkt.com/ekstraklasa/endendevertraege/wettbewerb/PL1/plus/1/galerie/0?jahr=2026&ausrichtung=alle&spielerposition_id=alle&altersklasse=alle&land_id=0&yt0=Show",
-    "player_name": "Jakub Kolan",
-    "player_url": "https://www.transfermarkt.com/jakub-kolan/profil/spieler/631447",
-    "position": "Defensive Midfield",
-    "nationality": "Poland",
-    "current_club": "Zaglebie Lubin",
-    "contract_option": "-",
-    "agent": "BMG-SPORT",
-    "scraped_date": "2025-10-14"
-  },
-  {
-    "comp_name": "PKO BP Ekstraklasa",
-    "country": "Poland",
-    "comp_url": "https://www.transfermarkt.com/ekstraklasa/endendevertraege/wettbewerb/PL1/plus/1/galerie/0?jahr=2026&ausrichtung=alle&spielerposition_id=alle&altersklasse=alle&land_id=0&yt0=Show",
-    "player_name": "Adam Ratajczyk",
-    "player_url": "https://www.transfermarkt.com/adam-ratajczyk/profil/spieler/628624",
-    "position": "Right Winger",
-    "nationality": "Poland",
-    "current_club": "Arka Gdynia",
-    "contract_option": "-",
-    "agent": "BMG-SPORT",
-    "scraped_date": "2025-10-14"
-  },
-  {
-    "comp_name": "PKO BP Ekstraklasa",
-    "country": "Poland",
-    "comp_url": "https://www.transfermarkt.com/ekstraklasa/endendevertraege/wettbewerb/PL1/plus/1/galerie/0?jahr=2026&ausrichtung=alle&spielerposition_id=alle&altersklasse=alle&land_id=0&yt0=Show",
-    "player_name": "Marcel Predenkiewicz",
-    "player_url": "https://www.transfermarkt.com/marcel-predenkiewicz/profil/spieler/929450",
-    "position": "Right Winger",
-    "nationality": "Poland",
-    "current_club": "Arka Gdynia",
-    "contract_option": "-",
-    "agent": "BMG-SPORT",
-    "scraped_date": "2025-10-14"
-  },
-  {
-    "comp_name": "PKO BP Ekstraklasa",
-    "country": "Poland",
-    "comp_url": "https://www.transfermarkt.com/ekstraklasa/endendevertraege/wettbewerb/PL1/plus/1/galerie/0?jahr=2026&ausrichtung=alle&spielerposition_id=alle&altersklasse=alle&land_id=0&yt0=Show",
-    "player_name": "Bartosz Kopacz",
-    "player_url": "https://www.transfermarkt.com/bartosz-kopacz/profil/spieler/153306",
-    "position": "Centre-Back",
-    "nationality": "Poland",
-    "current_club": "Bruk-Bet Termalica Nieciecza",
-    "contract_option": "Option for a further year",
-    "agent": "FairSport",
-    "scraped_date": "2025-10-14"
-  },
-  {
-    "comp_name": "PKO BP Ekstraklasa",
-    "country": "Poland",
-    "comp_url": "https://www.transfermarkt.com/ekstraklasa/endendevertraege/wettbewerb/PL1/plus/1/galerie/0?jahr=2026&ausrichtung=alle&spielerposition_id=alle&altersklasse=alle&land_id=0&yt0=Show",
-    "player_name": "Kamil Zapolnik",
-    "player_url": "https://www.transfermarkt.com/kamil-zapolnik/profil/spieler/281246",
-    "position": "Centre-Forward",
-    "nationality": "Poland",
-    "current_club": "Bruk-Bet Termalica Nieciecza",
-    "contract_option": "-",
-    "agent": "FairSport",
-    "scraped_date": "2025-10-14"
-  },
-  {
-    "comp_name": "PKO BP Ekstraklasa",
-    "country": "Poland",
-    "comp_url": "https://www.transfermarkt.com/ekstraklasa/endendevertraege/wettbewerb/PL1/plus/1/galerie/0?jahr=2026&ausrichtung=alle&spielerposition_id=alle&altersklasse=alle&land_id=0&yt0=Show",
-    "player_name": "Adrian Chovan",
-    "player_url": "https://www.transfermarkt.com/adrian-chovan/profil/spieler/299561",
-    "position": "Goalkeeper",
-    "nationality": "Slovakia",
-    "current_club": "Bruk-Bet Termalica Nieciecza",
-    "contract_option": "-",
-    "transfer_fee": 0,
-    "agent": "SPOCS Global Sports",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1848,7 +1742,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "Bahía Internacional",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1863,89 +1757,114 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "5 PRO SPORT AGENCY",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
     "country": "Poland",
     "comp_url": "https://www.transfermarkt.com/ekstraklasa/endendevertraege/wettbewerb/PL1/plus/1/galerie/0?jahr=2026&ausrichtung=alle&spielerposition_id=alle&altersklasse=alle&land_id=0&yt0=Show",
-    "player_name": "Marcin Listkowski",
-    "player_url": "https://www.transfermarkt.com/marcin-listkowski/profil/spieler/291276",
-    "position": "Attacking Midfield",
-    "nationality": "Poland",
-    "current_club": "Jagiellonia Bialystok",
+    "player_name": "Jakub Jugas",
+    "player_url": "https://www.transfermarkt.com/jakub-jugas/profil/spieler/146712",
+    "position": "Centre-Back",
+    "nationality": "Czech Republic",
+    "current_club": "Cracovia",
     "contract_option": "-",
-    "agent": "Fabryka Futbolu",
-    "scraped_date": "2025-10-14"
-  },
-  {
-    "comp_name": "PKO BP Ekstraklasa",
-    "country": "Poland",
-    "comp_url": "https://www.transfermarkt.com/ekstraklasa/endendevertraege/wettbewerb/PL1/plus/1/galerie/0?jahr=2026&ausrichtung=alle&spielerposition_id=alle&altersklasse=alle&land_id=0&yt0=Show",
-    "player_name": "Krzysztof Kaminski",
-    "player_url": "https://www.transfermarkt.com/krzysztof-kaminski/profil/spieler/172874",
-    "position": "Goalkeeper",
-    "nationality": "Poland",
-    "current_club": "Pogon Szczecin",
-    "contract_option": "Option for a further year",
     "transfer_fee": 0,
-    "agent": "MVP Agency",
-    "scraped_date": "2025-10-14"
+    "agent": "CHOVANECSPORT",
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
     "country": "Poland",
     "comp_url": "https://www.transfermarkt.com/ekstraklasa/endendevertraege/wettbewerb/PL1/plus/1/galerie/0?jahr=2026&ausrichtung=alle&spielerposition_id=alle&altersklasse=alle&land_id=0&yt0=Show",
-    "player_name": "Rafal Straczek",
-    "player_url": "https://www.transfermarkt.com/rafal-straczek/profil/spieler/447343",
-    "position": "Goalkeeper",
+    "player_name": "Adam Ratajczyk",
+    "player_url": "https://www.transfermarkt.com/adam-ratajczyk/profil/spieler/628624",
+    "position": "Right Winger",
+    "nationality": "Poland",
+    "current_club": "Arka Gdynia",
+    "contract_option": "-",
+    "agent": "BMG-SPORT",
+    "scraped_date": "2025-10-15"
+  },
+  {
+    "comp_name": "PKO BP Ekstraklasa",
+    "country": "Poland",
+    "comp_url": "https://www.transfermarkt.com/ekstraklasa/endendevertraege/wettbewerb/PL1/plus/1/galerie/0?jahr=2026&ausrichtung=alle&spielerposition_id=alle&altersklasse=alle&land_id=0&yt0=Show",
+    "player_name": "Marcel Predenkiewicz",
+    "player_url": "https://www.transfermarkt.com/marcel-predenkiewicz/profil/spieler/929450",
+    "position": "Right Winger",
+    "nationality": "Poland",
+    "current_club": "Arka Gdynia",
+    "contract_option": "-",
+    "agent": "BMG-SPORT",
+    "scraped_date": "2025-10-15"
+  },
+  {
+    "comp_name": "PKO BP Ekstraklasa",
+    "country": "Poland",
+    "comp_url": "https://www.transfermarkt.com/ekstraklasa/endendevertraege/wettbewerb/PL1/plus/1/galerie/0?jahr=2026&ausrichtung=alle&spielerposition_id=alle&altersklasse=alle&land_id=0&yt0=Show",
+    "player_name": "Nono",
+    "player_url": "https://www.transfermarkt.com/nono/profil/spieler/152776",
+    "position": "Defensive Midfield",
+    "nationality": "Spain",
+    "current_club": "Korona Kielce",
+    "contract_option": "-",
+    "agent": "JV SPORTS",
+    "scraped_date": "2025-10-15"
+  },
+  {
+    "comp_name": "PKO BP Ekstraklasa",
+    "country": "Poland",
+    "comp_url": "https://www.transfermarkt.com/ekstraklasa/endendevertraege/wettbewerb/PL1/plus/1/galerie/0?jahr=2026&ausrichtung=alle&spielerposition_id=alle&altersklasse=alle&land_id=0&yt0=Show",
+    "player_name": "Sebastian Milewski",
+    "player_url": "https://www.transfermarkt.com/sebastian-milewski/profil/spieler/374562",
+    "position": "Defensive Midfield",
     "nationality": "Poland",
     "current_club": "GKS Katowice",
     "contract_option": "-",
     "transfer_fee": 0,
-    "agent": "UNIDOS",
-    "scraped_date": "2025-10-14"
+    "agent": "KFM",
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
     "country": "Poland",
     "comp_url": "https://www.transfermarkt.com/ekstraklasa/endendevertraege/wettbewerb/PL1/plus/1/galerie/0?jahr=2026&ausrichtung=alle&spielerposition_id=alle&altersklasse=alle&land_id=0&yt0=Show",
-    "player_name": "Pawel Olkowski",
-    "player_url": "https://www.transfermarkt.com/pawel-olkowski/profil/spieler/117469",
-    "position": "Right-Back",
+    "player_name": "Bartosz Kopacz",
+    "player_url": "https://www.transfermarkt.com/bartosz-kopacz/profil/spieler/153306",
+    "position": "Centre-Back",
     "nationality": "Poland",
-    "current_club": "Górnik Zabrze",
+    "current_club": "Bruk-Bet Termalica Nieciecza",
+    "contract_option": "Option for a further year",
+    "agent": "FairSport",
+    "scraped_date": "2025-10-15"
+  },
+  {
+    "comp_name": "PKO BP Ekstraklasa",
+    "country": "Poland",
+    "comp_url": "https://www.transfermarkt.com/ekstraklasa/endendevertraege/wettbewerb/PL1/plus/1/galerie/0?jahr=2026&ausrichtung=alle&spielerposition_id=alle&altersklasse=alle&land_id=0&yt0=Show",
+    "player_name": "Kamil Zapolnik",
+    "player_url": "https://www.transfermarkt.com/kamil-zapolnik/profil/spieler/281246",
+    "position": "Centre-Forward",
+    "nationality": "Poland",
+    "current_club": "Bruk-Bet Termalica Nieciecza",
+    "contract_option": "-",
+    "agent": "FairSport",
+    "scraped_date": "2025-10-15"
+  },
+  {
+    "comp_name": "PKO BP Ekstraklasa",
+    "country": "Poland",
+    "comp_url": "https://www.transfermarkt.com/ekstraklasa/endendevertraege/wettbewerb/PL1/plus/1/galerie/0?jahr=2026&ausrichtung=alle&spielerposition_id=alle&altersklasse=alle&land_id=0&yt0=Show",
+    "player_name": "Adrian Chovan",
+    "player_url": "https://www.transfermarkt.com/adrian-chovan/profil/spieler/299561",
+    "position": "Goalkeeper",
+    "nationality": "Slovakia",
+    "current_club": "Bruk-Bet Termalica Nieciecza",
     "contract_option": "-",
     "transfer_fee": 0,
-    "agent": "INNfootball",
-    "scraped_date": "2025-10-14"
-  },
-  {
-    "comp_name": "PKO BP Ekstraklasa",
-    "country": "Poland",
-    "comp_url": "https://www.transfermarkt.com/ekstraklasa/endendevertraege/wettbewerb/PL1/plus/1/galerie/0?jahr=2026&ausrichtung=alle&spielerposition_id=alle&altersklasse=alle&land_id=0&yt0=Show",
-    "player_name": "Tomasz Mokwa",
-    "player_url": "https://www.transfermarkt.com/tomasz-mokwa/profil/spieler/266250",
-    "position": "Right-Back",
-    "nationality": "Poland",
-    "current_club": "Piast Gliwice",
-    "contract_option": "-",
-    "transfer_fee": 0,
-    "agent": "11-Football Players",
-    "scraped_date": "2025-10-14"
-  },
-  {
-    "comp_name": "PKO BP Ekstraklasa",
-    "country": "Poland",
-    "comp_url": "https://www.transfermarkt.com/ekstraklasa/endendevertraege/wettbewerb/PL1/plus/1/galerie/0?jahr=2026&ausrichtung=alle&spielerposition_id=alle&altersklasse=alle&land_id=0&yt0=Show",
-    "player_name": "Szczepan Mucha",
-    "player_url": "https://www.transfermarkt.com/szczepan-mucha/profil/spieler/726397",
-    "position": "Attacking Midfield",
-    "nationality": "Poland",
-    "current_club": "Piast Gliwice",
-    "contract_option": "-",
-    "agent": "BMG-SPORT",
-    "scraped_date": "2025-10-14"
+    "agent": "SPOCS Global Sports",
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1959,7 +1878,48 @@
     "contract_option": "Amateur contract",
     "transfer_fee": 0,
     "agent": "HMP Sport MGMT",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
+  },
+  {
+    "comp_name": "PKO BP Ekstraklasa",
+    "country": "Poland",
+    "comp_url": "https://www.transfermarkt.com/ekstraklasa/endendevertraege/wettbewerb/PL1/plus/1/galerie/0?jahr=2026&ausrichtung=alle&spielerposition_id=alle&altersklasse=alle&land_id=0&yt0=Show",
+    "player_name": "Krzysztof Kaminski",
+    "player_url": "https://www.transfermarkt.com/krzysztof-kaminski/profil/spieler/172874",
+    "position": "Goalkeeper",
+    "nationality": "Poland",
+    "current_club": "Pogon Szczecin",
+    "contract_option": "Option for a further year",
+    "transfer_fee": 0,
+    "agent": "MVP Agency",
+    "scraped_date": "2025-10-15"
+  },
+  {
+    "comp_name": "PKO BP Ekstraklasa",
+    "country": "Poland",
+    "comp_url": "https://www.transfermarkt.com/ekstraklasa/endendevertraege/wettbewerb/PL1/plus/1/galerie/0?jahr=2026&ausrichtung=alle&spielerposition_id=alle&altersklasse=alle&land_id=0&yt0=Show",
+    "player_name": "Pawel Olkowski",
+    "player_url": "https://www.transfermarkt.com/pawel-olkowski/profil/spieler/117469",
+    "position": "Right-Back",
+    "nationality": "Poland",
+    "current_club": "Górnik Zabrze",
+    "contract_option": "-",
+    "transfer_fee": 0,
+    "agent": "INNfootball",
+    "scraped_date": "2025-10-15"
+  },
+  {
+    "comp_name": "PKO BP Ekstraklasa",
+    "country": "Poland",
+    "comp_url": "https://www.transfermarkt.com/ekstraklasa/endendevertraege/wettbewerb/PL1/plus/1/galerie/0?jahr=2026&ausrichtung=alle&spielerposition_id=alle&altersklasse=alle&land_id=0&yt0=Show",
+    "player_name": "Marcin Listkowski",
+    "player_url": "https://www.transfermarkt.com/marcin-listkowski/profil/spieler/291276",
+    "position": "Attacking Midfield",
+    "nationality": "Poland",
+    "current_club": "Jagiellonia Bialystok",
+    "contract_option": "-",
+    "agent": "Fabryka Futbolu",
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1972,7 +1932,7 @@
     "current_club": "Lechia Gdansk",
     "contract_option": "-",
     "agent": "KFM",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -1986,7 +1946,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "no agent",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2000,7 +1960,7 @@
     "contract_option": "Option for a further year",
     "transfer_fee": 0,
     "agent": "11-Football Players",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2014,7 +1974,7 @@
     "contract_option": "Option for a further year",
     "transfer_fee": 0,
     "agent": "",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2027,7 +1987,48 @@
     "current_club": "Arka Gdynia",
     "contract_option": "Option for a further year",
     "agent": "",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
+  },
+  {
+    "comp_name": "PKO BP Ekstraklasa",
+    "country": "Poland",
+    "comp_url": "https://www.transfermarkt.com/ekstraklasa/endendevertraege/wettbewerb/PL1/plus/1/galerie/0?jahr=2026&ausrichtung=alle&spielerposition_id=alle&altersklasse=alle&land_id=0&yt0=Show",
+    "player_name": "Tomasz Mokwa",
+    "player_url": "https://www.transfermarkt.com/tomasz-mokwa/profil/spieler/266250",
+    "position": "Right-Back",
+    "nationality": "Poland",
+    "current_club": "Piast Gliwice",
+    "contract_option": "-",
+    "transfer_fee": 0,
+    "agent": "11-Football Players",
+    "scraped_date": "2025-10-15"
+  },
+  {
+    "comp_name": "PKO BP Ekstraklasa",
+    "country": "Poland",
+    "comp_url": "https://www.transfermarkt.com/ekstraklasa/endendevertraege/wettbewerb/PL1/plus/1/galerie/0?jahr=2026&ausrichtung=alle&spielerposition_id=alle&altersklasse=alle&land_id=0&yt0=Show",
+    "player_name": "Szczepan Mucha",
+    "player_url": "https://www.transfermarkt.com/szczepan-mucha/profil/spieler/726397",
+    "position": "Attacking Midfield",
+    "nationality": "Poland",
+    "current_club": "Piast Gliwice",
+    "contract_option": "-",
+    "agent": "BMG-SPORT",
+    "scraped_date": "2025-10-15"
+  },
+  {
+    "comp_name": "PKO BP Ekstraklasa",
+    "country": "Poland",
+    "comp_url": "https://www.transfermarkt.com/ekstraklasa/endendevertraege/wettbewerb/PL1/plus/1/galerie/0?jahr=2026&ausrichtung=alle&spielerposition_id=alle&altersklasse=alle&land_id=0&yt0=Show",
+    "player_name": "Rafal Straczek",
+    "player_url": "https://www.transfermarkt.com/rafal-straczek/profil/spieler/447343",
+    "position": "Goalkeeper",
+    "nationality": "Poland",
+    "current_club": "GKS Katowice",
+    "contract_option": "-",
+    "transfer_fee": 0,
+    "agent": "UNIDOS",
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2042,7 +2043,7 @@
     "contract_option": "Option for a further year",
     "transfer_fee": 0,
     "agent": "Wasserman",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2055,7 +2056,7 @@
     "current_club": "Bruk-Bet Termalica Nieciecza",
     "contract_option": "-",
     "agent": "IQSPORT.COM.PL",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2070,7 +2071,7 @@
     "contract_option": "Option for a further year",
     "transfer_fee": 0,
     "agent": "5 PRO SPORT AGENCY",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2083,7 +2084,7 @@
     "current_club": "Legia Warszawa",
     "contract_option": "-",
     "agent": "UNIDOS",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2098,7 +2099,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "KFM",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2113,7 +2114,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "Fairplay Career",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2127,7 +2128,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "FootballGoal.eu",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2141,7 +2142,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "MVP Agency",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2156,7 +2157,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "Victrix",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2170,7 +2171,7 @@
     "contract_option": "Option for a further year",
     "transfer_fee": 0,
     "agent": "",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2183,7 +2184,7 @@
     "current_club": "Wisla Plock",
     "contract_option": "-",
     "agent": "box2box Football Agency",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2198,7 +2199,7 @@
     "contract_option": "both parties 1 year",
     "transfer_fee": 0,
     "agent": "INGENIUM SPORTS GmbH",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2212,7 +2213,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "no agent",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2226,7 +2227,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2239,7 +2240,7 @@
     "current_club": "GKS Katowice",
     "contract_option": "Option for a further year",
     "agent": "BMG-SPORT",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2252,7 +2253,7 @@
     "current_club": "Korona Kielce",
     "contract_option": "-",
     "agent": "ProSport Manager",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2266,7 +2267,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "Fabryka Futbolu",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2279,7 +2280,7 @@
     "current_club": "Arka Gdynia",
     "contract_option": "-",
     "agent": "",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2294,7 +2295,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "Polish Sports Group",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2307,7 +2308,7 @@
     "current_club": "Korona Kielce",
     "contract_option": "-",
     "agent": "",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2321,7 +2322,7 @@
     "current_club": "Radomiak Radom",
     "contract_option": "-",
     "agent": "",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2334,7 +2335,7 @@
     "current_club": "Radomiak Radom",
     "contract_option": "-",
     "agent": "MVP Agency",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2349,7 +2350,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2364,7 +2365,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "Prime11",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2377,7 +2378,7 @@
     "current_club": "Legia Warszawa",
     "contract_option": "Option for a further year",
     "agent": "Profus Management",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2390,7 +2391,20 @@
     "current_club": "Jagiellonia Bialystok",
     "contract_option": "Option for a further year",
     "agent": "Japan at UK limited",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
+  },
+  {
+    "comp_name": "PKO BP Ekstraklasa",
+    "country": "Poland",
+    "comp_url": "https://www.transfermarkt.com/ekstraklasa/endendevertraege/wettbewerb/PL1/plus/1/galerie/0?jahr=2026&ausrichtung=alle&spielerposition_id=alle&altersklasse=alle&land_id=0&yt0=Show",
+    "player_name": "Bartlomiej Krasiewicz",
+    "player_url": "https://www.transfermarkt.com/bartlomiej-krasiewicz/profil/spieler/1046873",
+    "position": "Centre-Back",
+    "nationality": "Poland",
+    "current_club": "Jagiellonia Bialystok",
+    "contract_option": "-",
+    "agent": "",
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2403,7 +2417,7 @@
     "current_club": "Pogon Szczecin",
     "contract_option": "-",
     "agent": "CAA Stellar",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2416,7 +2430,7 @@
     "current_club": "Piast Gliwice",
     "contract_option": "-",
     "agent": "",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2429,7 +2443,7 @@
     "current_club": "Korona Kielce",
     "contract_option": "-",
     "agent": "Sports360 GmbH",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2442,7 +2456,7 @@
     "current_club": "Korona Kielce",
     "contract_option": "-",
     "agent": "MVP Agency",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2455,7 +2469,7 @@
     "current_club": "Widzew Lodz",
     "contract_option": "-",
     "agent": "",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2469,7 +2483,7 @@
     "contract_option": "-",
     "transfer_fee": 0,
     "agent": "Ivan Ishchenko",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2482,7 +2496,7 @@
     "current_club": "Zaglebie Lubin",
     "contract_option": "-",
     "agent": "",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -2495,6 +2509,6 @@
     "current_club": "Wisla Plock",
     "contract_option": "-",
     "agent": "SSM Agency",
-    "scraped_date": "2025-10-14"
+    "scraped_date": "2025-10-15"
   }
 ]

@@ -1,13 +1,13 @@
 [
   {
     "nationality": "Poland",
-    "count": 287,
-    "percentage": 51.07
+    "count": 288,
+    "percentage": 51.15
   },
   {
     "nationality": "Spain",
     "count": 34,
-    "percentage": 6.05
+    "percentage": 6.04
   },
   {
     "nationality": "Portugal",
@@ -22,27 +22,27 @@
   {
     "nationality": "Sweden",
     "count": 12,
-    "percentage": 2.14
+    "percentage": 2.13
   },
   {
     "nationality": "France",
     "count": 11,
-    "percentage": 1.96
+    "percentage": 1.95
   },
   {
     "nationality": "Greece",
     "count": 11,
-    "percentage": 1.96
+    "percentage": 1.95
   },
   {
     "nationality": "Slovakia",
     "count": 11,
-    "percentage": 1.96
+    "percentage": 1.95
   },
   {
     "nationality": "Ukraine",
     "count": 11,
-    "percentage": 1.96
+    "percentage": 1.95
   },
   {
     "nationality": "Brazil",
@@ -52,12 +52,12 @@
   {
     "nationality": "Bosnia-Herzegovina",
     "count": 7,
-    "percentage": 1.25
+    "percentage": 1.24
   },
   {
     "nationality": "Slovenia",
     "count": 7,
-    "percentage": 1.25
+    "percentage": 1.24
   },
   {
     "nationality": "Germany",

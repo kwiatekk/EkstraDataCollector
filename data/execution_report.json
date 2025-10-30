@@ -3,13 +3,13 @@
   "successful": 12,
   "failed": 0,
   "critical_failed": [],
-  "duration": 533.964165,
+  "duration": 384.162044,
   "results": [
     {
       "script": "01_collect_matches.R",
       "success": true,
       "returncode": 0,
-      "duration": 4.853476,
+      "duration": 4.879686,
       "output_files": {
         "match_results.json": {
           "exists": true,
@@ -23,7 +23,7 @@
       "script": "02_collect_standings.R",
       "success": true,
       "returncode": 0,
-      "duration": 4.203766,
+      "duration": 4.47065,
       "output_files": {
         "standings.json": {
           "exists": true,
@@ -37,7 +37,7 @@
       "script": "03_collect_xg.R",
       "success": true,
       "returncode": 0,
-      "duration": 4.25172,
+      "duration": 4.125236,
       "output_files": {
         "xg.json": {
           "exists": true,
@@ -51,7 +51,7 @@
       "script": "04_collect_players.R",
       "success": true,
       "returncode": 0,
-      "duration": 124.188128,
+      "duration": 124.488416,
       "output_files": {
         "players.json": {
           "exists": true,
@@ -65,7 +65,7 @@
       "script": "05_collect_transfers.R",
       "success": true,
       "returncode": 0,
-      "duration": 161.189273,
+      "duration": 164.52416,
       "output_files": {
         "transfers.json": {
           "exists": true,
@@ -79,7 +79,7 @@
       "script": "06_collect_injuries.R",
       "success": true,
       "returncode": 0,
-      "duration": 2.2874,
+      "duration": 3.300382,
       "output_files": {
         "injuries.json": {
           "exists": true,
@@ -93,7 +93,7 @@
       "script": "07_collect_form.R",
       "success": true,
       "returncode": 0,
-      "duration": 0.748549,
+      "duration": 0.696248,
       "output_files": {
         "form.json": {
           "exists": true,
@@ -107,12 +107,12 @@
       "script": "08_collect_contracts.R",
       "success": true,
       "returncode": 0,
-      "duration": 196.853973,
+      "duration": 42.32883,
       "output_files": {
         "contracts.json": {
           "exists": true,
           "valid": true,
-          "records": 182
+          "records": 181
         }
       },
       "attempt": 1
@@ -121,7 +121,7 @@
       "script": "09_collect_nationalities.R",
       "success": true,
       "returncode": 0,
-      "duration": 0.521825,
+      "duration": 0.518014,
       "output_files": {
         "nationalities.json": {
           "exists": true,
@@ -135,7 +135,7 @@
       "script": "10_collect_suspensions.R",
       "success": true,
       "returncode": 0,
-      "duration": 0.852611,
+      "duration": 0.831225,
       "output_files": {
         "suspensions.json": {
           "exists": true,
@@ -149,7 +149,7 @@
       "script": "11_collect_young_talents.R",
       "success": true,
       "returncode": 0,
-      "duration": 0.522848,
+      "duration": 0.511523,
       "output_files": {
         "young_talents.json": {
           "exists": true,
@@ -163,7 +163,7 @@
       "script": "12_collect_league_value_trend.R",
       "success": true,
       "returncode": 0,
-      "duration": 0.465289,
+      "duration": 0.462309,
       "output_files": {
         "league_value_trend.json": {
           "exists": true,
@@ -179,5 +179,5 @@
       "attempt": 1
     }
   ],
-  "timestamp": "2025-10-29T04:35:12.806805"
+  "timestamp": "2025-10-30T04:28:01.200245"
 }

@@ -3,54 +3,15 @@
     "comp_name": "PKO BP Ekstraklasa",
     "country": "Poland",
     "comp_url": "https://www.transfermarkt.com/ekstraklasa/verletztespieler/wettbewerb/PL1/plus/1",
-    "player_name": "Adam Matysek",
-    "player_url": "https://www.transfermarkt.com/adam-matysek/profil/spieler/1024787",
+    "player_name": "Slawomir Abramowicz",
+    "player_url": "https://www.transfermarkt.com/slawomir-abramowicz/profil/spieler/805834",
     "position": "Goalkeeper",
-    "current_club": "Zaglebie Lubin",
-    "age": 18,
+    "current_club": "Jagiellonia Bialystok",
+    "age": 21,
     "nationality": "Poland",
-    "injury": "unknown injury",
-    "scraped_date": "2025-10-29"
-  },
-  {
-    "comp_name": "PKO BP Ekstraklasa",
-    "country": "Poland",
-    "comp_url": "https://www.transfermarkt.com/ekstraklasa/verletztespieler/wettbewerb/PL1/plus/1",
-    "player_name": "Bartosz Borowski",
-    "player_url": "https://www.transfermarkt.com/bartosz-borowski/profil/spieler/1283226",
-    "position": "Centre-Forward",
-    "current_club": "Wisla Plock",
-    "age": 18,
-    "nationality": "Poland",
-    "injury": "unknown injury",
-    "scraped_date": "2025-10-29"
-  },
-  {
-    "comp_name": "PKO BP Ekstraklasa",
-    "country": "Poland",
-    "comp_url": "https://www.transfermarkt.com/ekstraklasa/verletztespieler/wettbewerb/PL1/plus/1",
-    "player_name": "Vladyslav Kochergin",
-    "player_url": "https://www.transfermarkt.com/vladyslav-kochergin/profil/spieler/248932",
-    "position": "Defensive Midfield",
-    "current_club": "Raków Częstochowa",
-    "age": 29,
-    "nationality": "Ukraine",
-    "injury": "Cruciate ligament tear",
-    "player_market_value": 2000000,
-    "scraped_date": "2025-10-29"
-  },
-  {
-    "comp_name": "PKO BP Ekstraklasa",
-    "country": "Poland",
-    "comp_url": "https://www.transfermarkt.com/ekstraklasa/verletztespieler/wettbewerb/PL1/plus/1",
-    "player_name": "Zoran Arsenic",
-    "player_url": "https://www.transfermarkt.com/zoran-arsenic/profil/spieler/280312",
-    "position": "Centre-Back",
-    "current_club": "Raków Częstochowa",
-    "age": 31,
-    "nationality": "Croatia",
-    "injury": "Tibia and fibula fracture",
-    "scraped_date": "2025-10-29"
+    "injury": "Elbow injury",
+    "player_market_value": 4000000,
+    "scraped_date": "2025-10-30"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -64,48 +25,47 @@
     "nationality": "Kenya",
     "injury": "Achilles heel problems",
     "player_market_value": 1200000,
-    "scraped_date": "2025-10-29"
+    "scraped_date": "2025-10-30"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
     "country": "Poland",
     "comp_url": "https://www.transfermarkt.com/ekstraklasa/verletztespieler/wettbewerb/PL1/plus/1",
-    "player_name": "Slawomir Abramowicz",
-    "player_url": "https://www.transfermarkt.com/slawomir-abramowicz/profil/spieler/805834",
-    "position": "Goalkeeper",
-    "current_club": "Jagiellonia Bialystok",
-    "age": 21,
+    "player_name": "Zoran Arsenic",
+    "player_url": "https://www.transfermarkt.com/zoran-arsenic/profil/spieler/280312",
+    "position": "Centre-Back",
+    "current_club": "Raków Częstochowa",
+    "age": 31,
+    "nationality": "Croatia",
+    "injury": "Tibia and fibula fracture",
+    "scraped_date": "2025-10-30"
+  },
+  {
+    "comp_name": "PKO BP Ekstraklasa",
+    "country": "Poland",
+    "comp_url": "https://www.transfermarkt.com/ekstraklasa/verletztespieler/wettbewerb/PL1/plus/1",
+    "player_name": "Vladyslav Kochergin",
+    "player_url": "https://www.transfermarkt.com/vladyslav-kochergin/profil/spieler/248932",
+    "position": "Defensive Midfield",
+    "current_club": "Raków Częstochowa",
+    "age": 29,
+    "nationality": "Ukraine",
+    "injury": "Cruciate ligament tear",
+    "player_market_value": 2000000,
+    "scraped_date": "2025-10-30"
+  },
+  {
+    "comp_name": "PKO BP Ekstraklasa",
+    "country": "Poland",
+    "comp_url": "https://www.transfermarkt.com/ekstraklasa/verletztespieler/wettbewerb/PL1/plus/1",
+    "player_name": "Konrad Ciszek",
+    "player_url": "https://www.transfermarkt.com/konrad-ciszek/profil/spieler/1291336",
+    "position": "Left-Back",
+    "current_club": "Korona Kielce",
+    "age": 18,
     "nationality": "Poland",
-    "injury": "Elbow injury",
-    "player_market_value": 4000000,
-    "scraped_date": "2025-10-29"
-  },
-  {
-    "comp_name": "PKO BP Ekstraklasa",
-    "country": "Poland",
-    "comp_url": "https://www.transfermarkt.com/ekstraklasa/verletztespieler/wettbewerb/PL1/plus/1",
-    "player_name": "Jean-Pierre Nsame",
-    "player_url": "https://www.transfermarkt.com/jean-pierre-nsame/profil/spieler/225055",
-    "position": "Centre-Forward",
-    "current_club": "Legia Warszawa",
-    "age": 32,
-    "nationality": "Cameroon",
-    "second_nationality": "France",
-    "injury": "Achilles heel problems",
-    "scraped_date": "2025-10-29"
-  },
-  {
-    "comp_name": "PKO BP Ekstraklasa",
-    "country": "Poland",
-    "comp_url": "https://www.transfermarkt.com/ekstraklasa/verletztespieler/wettbewerb/PL1/plus/1",
-    "player_name": "Dominik Hladun",
-    "player_url": "https://www.transfermarkt.com/dominik-hladun/profil/spieler/278676",
-    "position": "Goalkeeper",
-    "current_club": "Zaglebie Lubin",
-    "age": 30,
-    "nationality": "Poland",
-    "injury": "Shoulder injury",
-    "scraped_date": "2025-10-29"
+    "injury": "unknown injury",
+    "scraped_date": "2025-10-30"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -119,20 +79,7 @@
     "nationality": "Poland",
     "second_nationality": "Germany",
     "injury": "Knee injury",
-    "scraped_date": "2025-10-29"
-  },
-  {
-    "comp_name": "PKO BP Ekstraklasa",
-    "country": "Poland",
-    "comp_url": "https://www.transfermarkt.com/ekstraklasa/verletztespieler/wettbewerb/PL1/plus/1",
-    "player_name": "Alvis Jaunzems",
-    "player_url": "https://www.transfermarkt.com/alvis-jaunzems/profil/spieler/468916",
-    "position": "Right-Back",
-    "current_club": "Lechia Gdansk",
-    "age": 26,
-    "nationality": "Latvia",
-    "injury": "Muscle injury",
-    "scraped_date": "2025-10-29"
+    "scraped_date": "2025-10-30"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -145,7 +92,46 @@
     "age": 30,
     "nationality": "Ukraine",
     "injury": "Meniscus injury",
-    "scraped_date": "2025-10-29"
+    "scraped_date": "2025-10-30"
+  },
+  {
+    "comp_name": "PKO BP Ekstraklasa",
+    "country": "Poland",
+    "comp_url": "https://www.transfermarkt.com/ekstraklasa/verletztespieler/wettbewerb/PL1/plus/1",
+    "player_name": "Dominik Hladun",
+    "player_url": "https://www.transfermarkt.com/dominik-hladun/profil/spieler/278676",
+    "position": "Goalkeeper",
+    "current_club": "Zaglebie Lubin",
+    "age": 30,
+    "nationality": "Poland",
+    "injury": "Shoulder injury",
+    "scraped_date": "2025-10-30"
+  },
+  {
+    "comp_name": "PKO BP Ekstraklasa",
+    "country": "Poland",
+    "comp_url": "https://www.transfermarkt.com/ekstraklasa/verletztespieler/wettbewerb/PL1/plus/1",
+    "player_name": "Bartosz Borowski",
+    "player_url": "https://www.transfermarkt.com/bartosz-borowski/profil/spieler/1283226",
+    "position": "Centre-Forward",
+    "current_club": "Wisla Plock",
+    "age": 18,
+    "nationality": "Poland",
+    "injury": "unknown injury",
+    "scraped_date": "2025-10-30"
+  },
+  {
+    "comp_name": "PKO BP Ekstraklasa",
+    "country": "Poland",
+    "comp_url": "https://www.transfermarkt.com/ekstraklasa/verletztespieler/wettbewerb/PL1/plus/1",
+    "player_name": "Jakub Burek",
+    "player_url": "https://www.transfermarkt.com/jakub-burek/profil/spieler/697880",
+    "position": "Goalkeeper",
+    "current_club": "Wisla Plock",
+    "age": 22,
+    "nationality": "Poland",
+    "injury": "unknown injury",
+    "scraped_date": "2025-10-30"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -159,33 +145,34 @@
     "nationality": "Czech Republic",
     "injury": "Leg injury",
     "player_market_value": 1000000,
-    "scraped_date": "2025-10-29"
+    "scraped_date": "2025-10-30"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
     "country": "Poland",
     "comp_url": "https://www.transfermarkt.com/ekstraklasa/verletztespieler/wettbewerb/PL1/plus/1",
-    "player_name": "Jakub Burek",
-    "player_url": "https://www.transfermarkt.com/jakub-burek/profil/spieler/697880",
+    "player_name": "Jean-Pierre Nsame",
+    "player_url": "https://www.transfermarkt.com/jean-pierre-nsame/profil/spieler/225055",
+    "position": "Centre-Forward",
+    "current_club": "Legia Warszawa",
+    "age": 32,
+    "nationality": "Cameroon",
+    "second_nationality": "France",
+    "injury": "Achilles heel problems",
+    "scraped_date": "2025-10-30"
+  },
+  {
+    "comp_name": "PKO BP Ekstraklasa",
+    "country": "Poland",
+    "comp_url": "https://www.transfermarkt.com/ekstraklasa/verletztespieler/wettbewerb/PL1/plus/1",
+    "player_name": "Adam Matysek",
+    "player_url": "https://www.transfermarkt.com/adam-matysek/profil/spieler/1024787",
     "position": "Goalkeeper",
-    "current_club": "Wisla Plock",
-    "age": 22,
-    "nationality": "Poland",
-    "injury": "unknown injury",
-    "scraped_date": "2025-10-29"
-  },
-  {
-    "comp_name": "PKO BP Ekstraklasa",
-    "country": "Poland",
-    "comp_url": "https://www.transfermarkt.com/ekstraklasa/verletztespieler/wettbewerb/PL1/plus/1",
-    "player_name": "Konrad Ciszek",
-    "player_url": "https://www.transfermarkt.com/konrad-ciszek/profil/spieler/1291336",
-    "position": "Left-Back",
-    "current_club": "Korona Kielce",
+    "current_club": "Zaglebie Lubin",
     "age": 18,
     "nationality": "Poland",
     "injury": "unknown injury",
-    "scraped_date": "2025-10-29"
+    "scraped_date": "2025-10-30"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -199,7 +186,7 @@
     "nationality": "Iran",
     "injury": "Torn thigh muscle",
     "player_market_value": 2000000,
-    "scraped_date": "2025-10-29"
+    "scraped_date": "2025-10-30"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -213,7 +200,7 @@
     "nationality": "Portugal",
     "injury": "Hamstring injury",
     "player_market_value": 1000000,
-    "scraped_date": "2025-10-29"
+    "scraped_date": "2025-10-30"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -226,20 +213,7 @@
     "age": 26,
     "nationality": "Spain",
     "injury": "Foot injury",
-    "scraped_date": "2025-10-29"
-  },
-  {
-    "comp_name": "PKO BP Ekstraklasa",
-    "country": "Poland",
-    "comp_url": "https://www.transfermarkt.com/ekstraklasa/verletztespieler/wettbewerb/PL1/plus/1",
-    "player_name": "Wiktor Dlugosz",
-    "player_url": "https://www.transfermarkt.com/wiktor-dlugosz/profil/spieler/453156",
-    "position": "Right Midfield",
-    "current_club": "Korona Kielce",
-    "age": 25,
-    "nationality": "Poland",
-    "injury": "unknown injury",
-    "scraped_date": "2025-10-29"
+    "scraped_date": "2025-10-30"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -252,21 +226,33 @@
     "age": 22,
     "nationality": "Senegal",
     "injury": "Ankle injury",
-    "scraped_date": "2025-10-29"
+    "scraped_date": "2025-10-30"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
     "country": "Poland",
     "comp_url": "https://www.transfermarkt.com/ekstraklasa/verletztespieler/wettbewerb/PL1/plus/1",
-    "player_name": "Daniel Håkans",
-    "player_url": "https://www.transfermarkt.com/daniel-hakans/profil/spieler/448284",
-    "position": "Left Winger",
-    "current_club": "Lech Poznan",
+    "player_name": "Wiktor Dlugosz",
+    "player_url": "https://www.transfermarkt.com/wiktor-dlugosz/profil/spieler/453156",
+    "position": "Right Midfield",
+    "current_club": "Korona Kielce",
     "age": 25,
-    "nationality": "Finland",
-    "injury": "surgery",
-    "player_market_value": 1500000,
-    "scraped_date": "2025-10-29"
+    "nationality": "Poland",
+    "injury": "unknown injury",
+    "scraped_date": "2025-10-30"
+  },
+  {
+    "comp_name": "PKO BP Ekstraklasa",
+    "country": "Poland",
+    "comp_url": "https://www.transfermarkt.com/ekstraklasa/verletztespieler/wettbewerb/PL1/plus/1",
+    "player_name": "Alvis Jaunzems",
+    "player_url": "https://www.transfermarkt.com/alvis-jaunzems/profil/spieler/468916",
+    "position": "Right-Back",
+    "current_club": "Lechia Gdansk",
+    "age": 26,
+    "nationality": "Latvia",
+    "injury": "Muscle injury",
+    "scraped_date": "2025-10-30"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -280,7 +266,21 @@
     "nationality": "Sweden",
     "injury": "surgery",
     "player_market_value": 2500000,
-    "scraped_date": "2025-10-29"
+    "scraped_date": "2025-10-30"
+  },
+  {
+    "comp_name": "PKO BP Ekstraklasa",
+    "country": "Poland",
+    "comp_url": "https://www.transfermarkt.com/ekstraklasa/verletztespieler/wettbewerb/PL1/plus/1",
+    "player_name": "Daniel Håkans",
+    "player_url": "https://www.transfermarkt.com/daniel-hakans/profil/spieler/448284",
+    "position": "Left Winger",
+    "current_club": "Lech Poznan",
+    "age": 25,
+    "nationality": "Finland",
+    "injury": "surgery",
+    "player_market_value": 1500000,
+    "scraped_date": "2025-10-30"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -293,7 +293,7 @@
     "age": 25,
     "nationality": "Cyprus",
     "injury": "Cruciate ligament tear",
-    "scraped_date": "2025-10-29"
+    "scraped_date": "2025-10-30"
   },
   {
     "comp_name": "PKO BP Ekstraklasa",
@@ -306,6 +306,6 @@
     "age": 24,
     "nationality": "Poland",
     "injury": "Collateral ligament tear",
-    "scraped_date": "2025-10-29"
+    "scraped_date": "2025-10-30"
   }
 ]
